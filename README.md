@@ -22,7 +22,7 @@ To learn more about setting up and configuring your Vue 3 + TypeScript project, 
 
 Here’s a quick preview of your project:
 
-![Screenshot](src/assets/images/screenshot.png)
+![Screenshot](src/assets/images/screenshot.jpeg)
 
 ## Social Media
 
