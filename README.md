@@ -31,5 +31,6 @@ Feel free to connect with me on social media:
 - [GitHub](https://github.com/upovibe)
 - [LinkedIn](https://www.linkedin.com/in/upovibe/)
 - [Threads](https://www.threads.net/upovibe)
+- [Threads](https://www.x.com/upovibe)
 
 Happy coding! 🚀
